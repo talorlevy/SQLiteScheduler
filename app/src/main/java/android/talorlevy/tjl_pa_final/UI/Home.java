@@ -22,7 +22,7 @@ public class Home extends AppCompatActivity {
 
 //        Repository repo = new Repository(getApplication());
 //        Term term = new Term(1, "Test Term", "07/01/22", "01/01/23");
-//        repo.insert(term);
+//        repo.insert(term);??
 
 
     }
